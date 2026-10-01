@@ -1,5 +1,3 @@
-<!-- 🌌 HEADER -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1F,50:4C1D95,100:7C3AED&height=220&section=header&text=SURJYAVA%20DAS&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
@@ -17,19 +15,15 @@
 
 <br/><br/>
 
-<a href="https://www.google.com/maps/search/?api=1&query=Bandel%2C%20Hooghly%2C%20West%20Bengal%2C%20India">
-<img src="https://img.shields.io/badge/📍%20Bandel%2C%20West%20Bengal-4C1D95?style=flat-square"/>
+<a href="https://portfolio-surjyava-das.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://github.com/surjyavadas">
-<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/surjyava-das">
 <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:surjyavadas@gmail.com">
+<a href="mailto:surjyavadas.pro@gmail.com">
 <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -47,7 +41,7 @@
 
 ---
 
-# 👨‍💻 About
+# 👨‍💻 About Me
 
 I am a **Computer Science & Engineering student and software developer** focused on building intelligent, scalable, and user-centric software systems.
 
