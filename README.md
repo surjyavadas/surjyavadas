@@ -1,504 +1,251 @@
-````markdown
+<!-- 🌌 HEADER -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080512,35:24104F,70:5B21B6,100:7C3AED&height=250&section=header&text=SURJYAVA%20DAS&fontSize=58&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%2FML%20Developer%20%7C%20Full%20Stack%20Builder&descAlignY=58&descSize=19&descColor=DDD6FE" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1F,50:4C1D95,100:7C3AED&height=220&section=header&text=SURJYAVA%20DAS&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=800&height=80&lines=Engineering+Ideas+Into+Real+Products;Building+AI-Powered+Software;Full+Stack+%7C+AI%2FML+%7C+Computer+Vision;Learning+Systems+Design+%26+Advanced+DSA;Building.+Breaking.+Improving.+Repeating." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Scalable+Software+Systems;Engineering+AI-Powered+Products;Full+Stack+Development;Computer+Science+%7C+AI%2FML;Turning+Ideas+Into+Production-Ready+Products" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-7C3AED?style=for-the-badge&labelColor=0B0714"/>
-<img src="https://img.shields.io/badge/AI%2FML-Developer-8B5CF6?style=for-the-badge&labelColor=0B0714"/>
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-6366F1?style=for-the-badge&labelColor=0B0714"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-Engineer-4F46E5?style=for-the-badge&labelColor=0B0714"/>
+<img src="https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge&labelColor=0D0B1F"/>
+<img src="https://img.shields.io/badge/MAKAUT-Engineering-6366F1?style=for-the-badge&labelColor=0D0B1F"/>
+<img src="https://img.shields.io/badge/AI%2FML-Engineer-8B5CF6?style=for-the-badge&labelColor=0D0B1F"/>
+<img src="https://img.shields.io/badge/India-West%20Bengal-4F46E5?style=for-the-badge&labelColor=0D0B1F"/>
 
 <br/><br/>
 
+<a href="https://www.google.com/maps/search/?api=1&query=Bandel%2C%20Hooghly%2C%20West%20Bengal%2C%20India">
+<img src="https://img.shields.io/badge/📍%20Bandel%2C%20West%20Bengal-4C1D95?style=flat-square"/>
+</a>
+
 <a href="https://github.com/surjyavadas">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:surjyavadas@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/surjyavadas">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=surjyavadas&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/surjyavadas?label=FOLLOWERS&style=for-the-badge&color=8B5CF6&labelColor=0B0714"/>
-<img src="https://img.shields.io/github/stars/surjyavadas?label=STARS&style=for-the-badge&color=6366F1&labelColor=0B0714"/>
+<img src="https://img.shields.io/github/followers/surjyavadas?label=FOLLOWERS&style=for-the-badge&color=6366F1&labelColor=0D0B1F"/>
+<img src="https://img.shields.io/github/stars/surjyavadas?label=STARS&style=for-the-badge&color=8B5CF6&labelColor=0D0B1F"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 About
 
-```text
-Computer Science & Engineering Student
-Software Engineer in Progress
-AI/ML & Computer Vision Enthusiast
-Full Stack Developer
-Product-Oriented Builder
-Open Source & Hackathon Participant
-````
+I am a **Computer Science & Engineering student and software developer** focused on building intelligent, scalable, and user-centric software systems.
 
-I am a **Computer Science & Engineering student** passionate about building software that solves real problems.
+My engineering interests span **Artificial Intelligence, Machine Learning, Full Stack Development, Software Engineering, and Product Development**.
 
-My interests sit at the intersection of **Software Engineering, Artificial Intelligence, Machine Learning, Computer Vision, Full Stack Development, and Product Engineering**.
+I enjoy taking an idea from **problem definition → system architecture → implementation → testing → deployment**, with an emphasis on maintainability, performance, security, and real-world usability.
 
-I enjoy going beyond simply writing code. I like understanding **why a system should exist, how it should be architected, how users interact with it, and how it can eventually become a reliable production system.**
+My current focus is on developing production-oriented applications that combine **AI capabilities with modern software engineering practices**.
 
-My development workflow generally follows:
+### Engineering Focus
 
-```text
-IDEA
-  ↓
-PROBLEM DEFINITION
-  ↓
-SYSTEM DESIGN
-  ↓
-IMPLEMENTATION
-  ↓
-TESTING
-  ↓
-OPTIMIZATION
-  ↓
-DEPLOYMENT
-  ↓
-ITERATION
-```
+- Software Engineering & System Design
+- Artificial Intelligence & Machine Learning
+- Full Stack Web Development
+- Backend Architecture & APIs
+- Data Structures & Algorithms
+- Database Design
+- Developer Tooling & Automation
+- Product Engineering
+- Applied Computer Vision
 
-### What I Care About
+### Open To
 
-* Writing maintainable and readable code
-* Understanding fundamentals instead of blindly using frameworks
-* Designing scalable application architectures
-* Building practical AI systems
-* Creating clean and intuitive interfaces
-* Solving problems using algorithms and data structures
-* Learning how production systems work
-* Turning prototypes into usable products
-* Continuously improving engineering fundamentals
+`Software Engineering` `AI/ML` `Full Stack Development` `Open Source` `Hackathons` `Research Collaborations` `Product Development`
 
 ---
 
-# 🧠 Engineering Mindset
+# 🧰 Tech Stack
 
-> **Don't just make it work. Understand why it works, make it reliable, and then make it better.**
-
-I believe strong software engineering comes from combining:
-
-```text
-Strong Fundamentals
-        +
-Problem Solving
-        +
-System Design
-        +
-Clean Code
-        +
-Product Thinking
-        +
-Continuous Learning
-```
-
-I am particularly interested in the complete lifecycle of a product:
-
-**Concept → Architecture → Development → Testing → Deployment → Monitoring → Iteration**
-
----
-
-# 🛠️ Technical Arsenal
-
-## 💻 Programming Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,sql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,sql&theme=dark" />
 </p>
 
-| Technology | Focus                                                   |
-| :--------- | :------------------------------------------------------ |
-| Python     | AI/ML, automation, backend, scripting                   |
-| C          | Programming fundamentals, DSA, systems concepts         |
-| C++        | Algorithms, competitive programming, problem solving    |
-| Java       | Object-oriented programming and application development |
-| JavaScript | Web development and frontend engineering                |
-| TypeScript | Type-safe modern web applications                       |
-| SQL        | Database design and data querying                       |
-
----
-
-## 🎨 Frontend Engineering
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&theme=dark" />
 </p>
 
-**Core Areas**
-
-* Responsive UI development
-* Component-based architecture
-* Modern JavaScript
-* React applications
-* Next.js development
-* Tailwind CSS
-* API integration
-* Client-side state management
-* UI/UX implementation
-
----
-
-## ⚙️ Backend & Databases
+### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgresql,sqlite&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgresql,sqlite&theme=dark" />
 </p>
 
-**Core Areas**
-
-* REST API development
-* Backend architecture
-* Authentication systems
-* Database modeling
-* CRUD systems
-* API integration
-* Data persistence
-* Server-side application logic
-
----
-
-## ☁️ Cloud, DevOps & Developer Tools
+### Cloud, DevOps & Tooling
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,netlify,vscode,arduino&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,linux,vscode,arduino&theme=dark" />
 </p>
-
-**Tooling**
-
-`Git` `GitHub` `Docker` `Linux` `VS Code` `Vercel` `Netlify`
-
-**Engineering Practices**
-
-`Version Control` `API Development` `Deployment` `Debugging` `Testing` `Documentation`
 
 ---
 
-# 🤖 AI / ML Engineering
+# 🤖 AI / ML Expertise
 
-My primary AI interest is **applied AI** — using machine learning and computer vision to create useful software rather than building models without a practical purpose.
-
-### AI Capability Matrix
-
-| Domain                 |      Level      | Focus                                          |
-| :--------------------- | :-------------: | :--------------------------------------------- |
-| Python for AI          |    🟣 Strong    | AI development, automation and experimentation |
-| Machine Learning       | 🟣 Intermediate | Applied ML concepts and model workflows        |
-| Computer Vision        | 🟣 Intermediate | Real-time image/video processing               |
-| OpenCV                 | 🟣 Intermediate | Computer vision applications                   |
-| AI Applications        | 🟣 Intermediate | Integrating AI into software products          |
-| Data Processing        | 🟣 Intermediate | Cleaning, transformation and analysis          |
-| AI Product Engineering | 🟣 Intermediate | Building usable AI-powered applications        |
-| Generative AI          |   🟣 Learning   | Exploring modern AI application architectures  |
-
-### AI Interests
-
-```text
-Computer Vision
-Machine Learning
-Generative AI
-AI Agents
-Intelligent Automation
-Real-Time AI Systems
-AI + Full Stack Applications
-Human-Computer Interaction
-```
+| Domain | Proficiency | Details |
+|:---|:---:|:---|
+| Machine Learning | 🟣 Intermediate | Model development, experimentation and applied ML workflows |
+| Computer Vision | 🟣 Intermediate | Image/video processing and vision-based applications |
+| AI Applications | 🟣 Intermediate | Integrating AI capabilities into practical software products |
+| Python for AI | 🟣 Advanced | Python-based development, automation and AI workflows |
+| Data Processing | 🟣 Intermediate | Data manipulation, preprocessing and analytical workflows |
+| AI Product Engineering | 🟣 Intermediate | Designing AI-powered features around real user problems |
 
 ---
 
 # 🚀 Featured Projects
 
-## 🧠 Drowsiness Detection System
-
 <details>
-<summary><strong>View Project Details</strong></summary>
+<summary><strong>🧠 Drowsiness Detection System</strong></summary>
 
 <br/>
 
-A real-time **computer vision based driver drowsiness detection system** designed to monitor a user's facial and eye state through a camera and provide an alert when prolonged drowsiness is detected.
+A computer-vision based driver safety system designed to detect signs of drowsiness using a camera and trigger an alert when prolonged eye closure is detected.
 
-### Architecture
+| Category | Details |
+|:---|:---|
+| **Stack** | Python · OpenCV · Computer Vision |
+| **Scale** | Real-time webcam-based detection |
+| **Performance** | Real-time frame processing |
+| **Security** | Local processing architecture |
+| **Impact** | Designed to improve driver alertness and road safety |
+| **Repository** | [GitHub](https://github.com/surjyavadas/Drowsiness-detection-system) |
 
-```text
-Camera
-   ↓
-Video Capture
-   ↓
-Face Detection
-   ↓
-Eye / Landmark Analysis
-   ↓
-Drowsiness Detection
-   ↓
-Threshold Evaluation
-   ↓
-Alert System
-```
+**Engineering Scope**
 
-| Category         | Details                                                              |
-| :--------------- | :------------------------------------------------------------------- |
-| **Stack**        | Python · OpenCV · Computer Vision                                    |
-| **Interface**    | Webcam-based real-time system                                        |
-| **Processing**   | Real-time frame analysis                                             |
-| **Architecture** | Modular Python application                                           |
-| **Security**     | Local processing                                                     |
-| **Use Case**     | Driver safety                                                        |
-| **Repository**   | [GitHub](https://github.com/surjyavadas/Drowsiness-detection-system) |
-
-### Engineering Highlights
-
-* Real-time video processing
-* Face and eye-state detection
-* Drowsiness threshold logic
-* Alert mechanism
-* Modular implementation
-* Hardware integration potential
-* Expandable architecture
-
-### Future Direction
-
-```text
-Computer Vision
-      +
-IR Sensor
-      +
-Microcontroller
-      +
-External Buzzer
-      +
-Real-Time Driver Alerting
-```
+- Real-time camera processing
+- Facial landmark / eye-state analysis
+- Drowsiness detection logic
+- Real-time alert mechanism
+- Extensible hardware integration
+- Modular Python architecture
 
 </details>
 
----
-
-# 🌙 NightShift
-
 <details>
-<summary><strong>Multiplayer Horror Game — Roblox</strong></summary>
+<summary><strong>🌙 NightShift — Multiplayer Horror Experience</strong></summary>
 
 <br/>
 
-**NightShift** is a multiplayer supermarket horror experience centered around employees working through an increasingly unpredictable night shift.
+A dark multiplayer supermarket horror experience centered around employees working through an increasingly unpredictable night shift.
 
-The project focuses on combining **gameplay systems, multiplayer architecture, UI/UX, progression, atmosphere, and cooperative gameplay.**
+| Category | Details |
+|:---|:---|
+| **Stack** | Roblox · Lua · Multiplayer Systems · UI/UX |
+| **Scale** | Solo · Duo · Trio · Squad gameplay |
+| **Performance** | Multiplayer-oriented game architecture |
+| **Security** | Server-authoritative gameplay design |
+| **Impact** | Immersive cooperative horror gameplay |
+| **Repository** | Private / Development |
 
-### Game Modes
+**Engineering Scope**
 
-| Mode      | Description                 |
-| :-------- | :-------------------------- |
-| **SOLO**  | Face the night alone.       |
-| **DUO**   | Work with one teammate.     |
-| **TRIO**  | Three employees. One shift. |
-| **SQUAD** | Four employees. One night.  |
-
-### Core Systems
-
-```text
-Lobby
- ├── Play
- │    ├── Solo
- │    ├── Duo
- │    ├── Trio
- │    └── Squad
- │
- ├── Shop
- ├── Inventory
- ├── Apartment
- └── Settings
-```
-
-| Category         | Details                                  |
-| :--------------- | :--------------------------------------- |
-| **Platform**     | Roblox                                   |
-| **Language**     | Lua / Luau                               |
-| **Genre**        | Multiplayer Horror                       |
-| **Players**      | 1–4                                      |
-| **Architecture** | Multiplayer game systems                 |
-| **Focus**        | Gameplay · UI · Atmosphere · Progression |
-
-### Engineering Focus
-
-* Multiplayer lobby system
-* Party management
-* Inventory architecture
-* Shop system
-* Player progression
-* UI state management
-* Game-state synchronization
-* Horror gameplay systems
-* Modular game architecture
+- Multiplayer lobby architecture
+- Party-size selection
+- Player inventory systems
+- Shop and apartment systems
+- Horror gameplay mechanics
+- Dark themed UI system
+- Modular gameplay progression
 
 </details>
 
----
-
-# 🧮 Scientific Calculator
-
 <details>
-<summary><strong>Python Desktop Calculator</strong></summary>
+<summary><strong>🧮 Scientific Calculator</strong></summary>
 
 <br/>
 
-A desktop scientific calculator built with Python, focusing on clean interface design, mathematical functionality, and modular application logic.
+A desktop scientific calculator focused on clean UI design and modular mathematical functionality.
 
-| Category         | Details                                  |
-| :--------------- | :--------------------------------------- |
-| **Language**     | Python                                   |
-| **GUI**          | Tkinter                                  |
-| **Application**  | Desktop                                  |
-| **Focus**        | Mathematics · UI · Input handling        |
-| **Architecture** | Modular                                  |
-| **Repository**   | [GitHub](https://github.com/surjyavadas) |
+| Category | Details |
+|:---|:---|
+| **Stack** | Python · Tkinter |
+| **Scale** | Desktop application |
+| **Performance** | Lightweight local execution |
+| **Security** | Local-only computation |
+| **Impact** | Practical mathematical utility |
+| **Repository** | [GitHub](https://github.com/surjyavadas) |
 
-### Features
+**Engineering Scope**
 
-* Arithmetic operations
-* Scientific calculations
-* Interactive GUI
-* Input validation
-* Modular calculation logic
-* Keyboard-friendly workflow
-
-</details>
-
----
-
-# 🧪 AI Consultancy Platform
-
-<details>
-<summary><strong>AI-Powered Product Concept</strong></summary>
-
-<br/>
-
-An AI consultancy platform concept designed to help users analyze problems, explore possible solutions, and receive structured recommendations through an intelligent software interface.
-
-### Concept Architecture
-
-```text
-User
- ↓
-Web Interface
- ↓
-API Layer
- ↓
-AI Processing
- ↓
-Context / Data Layer
- ↓
-Structured Recommendation
- ↓
-User
-```
-
-### Product Goals
-
-* AI-assisted decision support
-* Structured problem analysis
-* Personalized recommendations
-* Modern web interface
-* Scalable backend architecture
-* Modular AI integration
+- Mathematical expression handling
+- Interactive GUI
+- Modular calculation logic
+- User-friendly interface
+- Input validation
 
 </details>
-
----
-
-# 📚 Education
-
-### 🎓 Bachelor of Technology — Computer Science & Engineering
-
-**Academy of Technology**
-
-`MAKAUT Affiliated`
-
-### Core Academic Areas
-
-```text
-Data Structures & Algorithms
-Computer Programming
-Database Management
-Computer Architecture
-Digital Logic
-Mathematics
-Physics
-Electrical Engineering
-Object-Oriented Programming
-Software Engineering
-```
 
 ---
 
 # 💼 Experience
 
-## Software Developer & Project Builder
+### Software Engineering & AI Projects
 
-**Independent Development**
+**Independent Developer**  
 `2025 — Present`
 
-Working on academic, experimental, and product-oriented software projects across multiple areas of computer science.
+Building academic, experimental, and product-oriented software projects across AI, computer vision, web development, and application engineering.
 
-### Responsibilities
+**Scope of Work**
 
-* Design and develop software applications
-* Build AI-powered prototypes
-* Develop computer vision systems
-* Create full-stack web applications
-* Work with databases and APIs
-* Implement data structures and algorithms
-* Develop game systems
-* Experiment with new technologies
-* Participate in hackathons
-* Maintain and document GitHub projects
+- Design and implement software applications
+- Develop AI-powered prototypes
+- Build full-stack web applications
+- Work with APIs and databases
+- Develop computer-vision systems
+- Implement data structures and algorithms
+- Prototype product concepts
+- Participate in technical hackathons
 
-### Engineering Areas
+**Skills**
 
-`Software Development`
-`AI/ML`
-`Computer Vision`
-`Full Stack Development`
-`Backend Engineering`
-`Database Systems`
-`Git & GitHub`
-`Product Development`
+`Python` `C` `C++` `Java` `JavaScript` `SQL` `AI/ML` `Computer Vision` `Git` `GitHub`
 
 ---
 
-# 🏆 Achievements & Activities
+# 🏆 Achievements
 
 <div align="center">
 
-| Recognition              | Details                                                        |
-| :----------------------- | :------------------------------------------------------------- |
-| 🧠 **AI Projects**       | Built practical AI and computer-vision applications            |
-| 💻 **Software Projects** | Developed applications across Python, web and game development |
-| 🚀 **Hackathons**        | Participated in collaborative software and AI projects         |
-| 🐙 **GitHub**            | Maintains public development projects and experiments          |
-| 🎮 **Game Development**  | Developing multiplayer gameplay and UI systems                 |
-| 📚 **CS Fundamentals**   | Continuously studying DSA, systems and software engineering    |
+| Recognition | Details |
+|:---|:---|
+| **Hackathons** | Participated in software and AI-focused hackathon projects |
+| **AI Projects** | Built applied AI and computer-vision systems |
+| **Open Source** | Maintains public software projects on GitHub |
+| **Product Development** | Designed and developed original software product concepts |
+| **Engineering** | Academic and practical experience across core CS domains |
 
 </div>
 
 ---
 
-# 📜 Certifications & Learning
+# 📜 Certifications
 
-### Amazon Web Services
+### AWS
 
 <img src="https://img.shields.io/badge/AWS-Cloud%20Learning-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
@@ -508,58 +255,11 @@ Working on academic, experimental, and product-oriented software projects across
 
 ### NPTEL
 
-<img src="https://img.shields.io/badge/NPTEL-Technical%20Learning-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NPTEL-Certified%20Learning-7C3AED?style=for-the-badge"/>
 
 ### Cisco
 
 <img src="https://img.shields.io/badge/Cisco-Networking-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-> Certification details will be added as credentials are completed.
-
----
-
-# 🧩 Problem Solving
-
-I am actively strengthening my foundations in **Data Structures & Algorithms**.
-
-### Current DSA Areas
-
-```text
-Arrays
-Linked Lists
-Stacks
-Queues
-Trees
-Graphs
-Sorting
-Searching
-Recursion
-Dynamic Programming
-Hashing
-Pointers
-Memory Management
-Complexity Analysis
-```
-
-### Problem Solving Philosophy
-
-```text
-Understand the Problem
-        ↓
-Identify Constraints
-        ↓
-Choose Data Structure
-        ↓
-Design Algorithm
-        ↓
-Analyze Complexity
-        ↓
-Implement
-        ↓
-Test Edge Cases
-        ↓
-Optimize
-```
 
 ---
 
@@ -568,19 +268,19 @@ Optimize
 <div align="center">
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-DSA-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Coding-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
 <a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </div>
@@ -591,23 +291,23 @@ Optimize
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=surjyavadas&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0B0714&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=surjyavadas&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D0B1F&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surjyavadas&layout=compact&hide_border=true&langs_count=10&theme=tokyonight&bg_color=0B0714&title_color=A78BFA&text_color=E5E7EB"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surjyavadas&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D0B1F&title_color=A78BFA&text_color=E5E7EB"/>
 
-<br/><br/>
+<br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=surjyavadas&theme=tokyonight&hide_border=true&background=0B0714&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=A78BFA&dates=9CA3AF"/>
+<img src="https://streak-stats.demolab.com?user=surjyavadas&theme=tokyonight&hide_border=true&background=0D0B1F&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=surjyavadas&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=surjyavadas&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
@@ -617,7 +317,7 @@ Optimize
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surjyavadas&bg_color=0B0714&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&area_color=4C1D95&hide_border=true&custom_title=Surjyava's%20Contribution%20Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=surjyavadas&bg_color=0D0B1F&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true"/>
 
 </div>
 
@@ -636,167 +336,30 @@ Optimize
 # 🎯 Current Focus
 
 ```yaml
-developer:
-  name: "Surjyava Das"
-  role: "Computer Science & Engineering Student"
-
 current_focus:
-
   learning:
-    - "Data Structures & Algorithms"
-    - "Advanced Python"
-    - "Machine Learning"
-    - "Computer Vision"
-    - "System Design"
-    - "Backend Engineering"
-    - "Modern Full Stack Development"
+    - Advanced Data Structures & Algorithms
+    - Machine Learning
+    - Computer Vision
+    - System Design
+    - Full Stack Development
 
   building:
-    - "AI-powered applications"
-    - "Computer vision systems"
-    - "Full-stack products"
-    - "Multiplayer game systems"
-    - "Developer-focused tools"
+    - AI-powered applications
+    - Full-stack products
+    - Computer vision systems
+    - Multiplayer game systems
 
   exploring:
-    - "Generative AI"
-    - "AI Agents"
-    - "Large Language Model Applications"
-    - "Cloud Architecture"
-    - "Distributed Systems"
-    - "Software Architecture"
-    - "Open Source"
-
-  improving:
-    - "Problem Solving"
-    - "Code Quality"
-    - "System Design"
-    - "Database Design"
-    - "API Architecture"
-    - "Production Engineering"
+    - Generative AI
+    - Applied Machine Learning
+    - Cloud Engineering
+    - Developer Tools
+    - Software Architecture
 
   open_to:
-    - "Software Engineering Opportunities"
-    - "AI/ML Collaborations"
-    - "Open Source Contributions"
-    - "Hackathons"
-    - "Research Projects"
-    - "Product Development"
-    - "Technical Collaborations"
-```
-
----
-
-# 🌐 Open Source & Collaboration
-
-I am interested in collaborating on projects involving:
-
-```text
-AI / ML
-    ↓
-Computer Vision
-    ↓
-Full Stack Applications
-    ↓
-Developer Tools
-    ↓
-Open Source
-    ↓
-Automation
-    ↓
-Interesting Engineering Problems
-```
-
-If you're building something interesting and want to collaborate, feel free to connect.
-
----
-
-# 🔭 2026 Engineering Roadmap
-
-| Quarter | Focus                                                   |
-| :-----: | :------------------------------------------------------ |
-|  **Q1** | Strengthen programming fundamentals and DSA             |
-|  **Q2** | Build stronger full-stack applications                  |
-|  **Q3** | Deepen AI/ML and computer vision knowledge              |
-|  **Q4** | Explore system design, cloud and production engineering |
-
-### Long-Term Direction
-
-```text
-Student Developer
-      ↓
-Software Engineer
-      ↓
-AI / Full Stack Engineer
-      ↓
-Product Engineer
-      ↓
-Systems & AI Engineering
-```
-
----
-
-# 📌 Developer Principles
-
-### 01 — Fundamentals First
-
-Frameworks change. Strong engineering fundamentals remain valuable.
-
-### 02 — Build, Don't Just Watch
-
-The fastest way to understand technology is to build something with it.
-
-### 03 — Learn From Failure
-
-Bugs, broken builds and failed approaches are part of engineering.
-
-### 04 — Keep It Simple
-
-Good systems should be understandable before they become sophisticated.
-
-### 05 — Ship
-
-A working product teaches more than an unfinished perfect idea.
-
----
-
-# 📫 Let's Connect
-
-<div align="center">
-
-<a href="mailto:surjyavadas@gmail.com">
-<img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/surjyavadas">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/surjyavadas">
-<img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### Building software. Exploring AI. Solving problems. Shipping ideas.
-
-<br/>
-
-<img src="https://img.shields.io/badge/Code-Build-Learning-7C3AED?style=for-the-badge&labelColor=0B0714"/>
-<img src="https://img.shields.io/badge/AI-Engineering-8B5CF6?style=for-the-badge&labelColor=0B0714"/>
-<img src="https://img.shields.io/badge/Always-Learning-6366F1?style=for-the-badge&labelColor=0B0714"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,40:5B21B6,75:24104F,100:080512&height=150&section=footer&animation=twinkling"/>
-
-</div>
-```
+    - Software Engineering Opportunities
+    - AI/ML Collaborations
+    - Open Source Projects
+    - Hackathons
+    - Product Engineering
