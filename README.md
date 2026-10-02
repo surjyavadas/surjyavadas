@@ -15,7 +15,7 @@
 
 <br/><br/>
 
-<a href="https://portfolio-surjyava-das.netlify.app/">
+<a href="https://portfolio-surjyavadas.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
