@@ -3,9 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=280&section=header&text=SURJYAVA%20DAS&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=58" width="100%" alt="Surjyava Das"/>
-
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/wave.gif" width="60" alt="wave"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,50:7a0000,100:ff2a2a&height=260&section=header&text=SURJYAVA%20DAS&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=62" width="100%" alt="Surjyava Das"/>
 
 <a href="https://github.com/surjyavadas">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=760&height=50&lines=Hi%2C+I%27m+Surjyava+%F0%9F%91%8B;Turning+ideas+into+production-ready+software;Building+AI-powered+full-stack+products;Computer+Vision+%7C+Backend+%7C+System+Design;B.Tech+CSE+%40+MAKAUT+%E2%80%A2+West+Bengal%2C+India" alt="Typing animation"/>
@@ -18,15 +16,15 @@
 ![AI/ML](https://img.shields.io/badge/AI%2FML-ENGINEER-8B5CF6?style=for-the-badge)
 ![India](https://img.shields.io/badge/INDIA-WEST%20BENGAL-A78BFA?style=for-the-badge)
 
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://portfolio-surjyavadas.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/surjyava-das/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/surjyavadas"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=surjyavadas&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/surjyavadas?label=Followers&style=for-the-badge&color=6D28D9&logo=github" alt="Followers"/>
+<img src="https://hits.sh/github.com/surjyavadas.svg?style=for-the-badge&label=Profile%20Views&color=7C3AED&labelColor=555555" alt="Profile views"/>
+<a href="https://github.com/surjyavadas?tab=followers"><img src="https://img.shields.io/github/followers/surjyavadas?label=Followers&style=for-the-badge&color=7C3AED&labelColor=555555&logo=github" alt="Followers"/></a>
 
 </div>
 
@@ -230,9 +228,9 @@ Building academic, experimental, and product-oriented software projects across A
 <br/>
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Point_Down.gif" width="55" alt="Point down"/>
 <br/>
-<a href="YOUR_LEETCODE_URL"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/u/Qv9LoWEExl/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="YOUR_GFG_URL"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="YOUR_HACKERRANK_URL"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
+<a href="https://www.hackerrank.com/profile/surjyavadas"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
 <a href="YOUR_CODECHEF_URL"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </div>
 
@@ -320,6 +318,6 @@ current_focus:
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=A78BFA&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%E2%9C%A8;Let%27s+build+something+great+together." alt="Footer typing"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2a2a,50:7a0000,100:1a0000&height=140&section=footer&animation=twinkling" width="100%"/>
 
 </div>
