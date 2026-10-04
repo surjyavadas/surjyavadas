@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0000,50:7a0000,100:ff2a2a&height=260&section=header&text=SURJYAVA%20DAS&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=62" width="100%" alt="Surjyava Das"/>
+<img src="./header.svg" width="100%" alt="Surjyava Das - Software Engineer, AI/ML Engineer, Full Stack Developer"/>
 
 <a href="https://github.com/surjyavadas">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=760&height=50&lines=Hi%2C+I%27m+Surjyava+%F0%9F%91%8B;Turning+ideas+into+production-ready+software;Building+AI-powered+full-stack+products;Computer+Vision+%7C+Backend+%7C+System+Design;B.Tech+CSE+%40+MAKAUT+%E2%80%A2+West+Bengal%2C+India" alt="Typing animation"/>
@@ -318,6 +318,6 @@ current_focus:
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=A78BFA&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%E2%9C%A8;Let%27s+build+something+great+together." alt="Footer typing"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2a2a,50:7a0000,100:1a0000&height=140&section=footer&animation=twinkling" width="100%"/>
+<img src="./footer.svg" width="100%" alt="Thanks for stopping by"/>
 
 </div>
