@@ -58,7 +58,7 @@ I like building things across the stack — from small Python programs and C/C++
 </td>
 <td width="42%" align="center">
 
-<img src="https://camo.githubusercontent.com/48c5e06db5ae77048c7dfa915274ac4cf8a9ab06bb1b838fbceb61640cc3fcae/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c3365385146744e685844324d2f67697068792e676966" width="280" alt="Earth rotating"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Developer animation"/>
 
 <br><br>
 
