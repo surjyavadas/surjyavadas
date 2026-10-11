@@ -57,7 +57,7 @@
 
 ---
 
-## `whoami`
+## `Who Am i?`
 
 Hey! I'm **Surjyava Das**, a Computer Science student who enjoys turning ideas into useful software. I'm exploring full-stack development, Python, AI/ML, and creative technology while building projects and improving my problem-solving skills.
 
