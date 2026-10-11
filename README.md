@@ -57,7 +57,7 @@
 
 ---
 
-## `Who Am i?`
+## `whoami`
 
 Hey! I'm **Surjyava Das**, a Computer Science student who enjoys turning ideas into useful software. I'm exploring full-stack development, Python, AI/ML, and creative technology while building projects and improving my problem-solving skills.
 
@@ -100,14 +100,6 @@ Hey! I'm **Surjyava Das**, a Computer Science student who enjoys turning ideas i
 <img
   src="https://streak-stats.demolab.com?user=surjyavadas&theme=transparent&background=0A101F&border=22D3EE&stroke=334155&ring=A78BFA&fire=22D3EE&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=A78BFA&sideLabels=22D3EE&dates=94A3B8&border_radius=12"
   alt="GitHub contribution streak"
-  width="100%"
-/>
-
-<br>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=surjyavadas&bg_color=0A101F&color=E2E8F0&line=22D3EE&point=A78BFA&area=true&hide_border=true"
-  alt="GitHub activity graph"
   width="100%"
 />
 
