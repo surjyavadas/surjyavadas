@@ -38,7 +38,7 @@
 </a>
 
 <p>
-  <a href="https://portfolio-surjyavadas.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio"></a>
+  <a href="[https://portfolio-surjyavadas.netlify.app](https://surjyavadas.netlify.app/#home)/"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/surjyava-das/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:surjyavadas.pro@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
   <a href="https://leetcode.com/u/Qv9LoWEExl/"><img src="https://img.shields.io/badge/LeetCode-0A101F?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"></a>
