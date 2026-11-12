@@ -44,6 +44,9 @@
   <a href="https://www.linkedin.com/in/surjyava-das/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://www.hackerrank.com/profile/surjyavadas">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+  </a>
 </p>
 
 <!-- Profile view counter (counts every load of this image; the only counter on the page) -->
