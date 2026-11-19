@@ -38,7 +38,7 @@
 </a>
 
 <p>
-  <a href="[https://surjyavadas.netlify.app/](https://surjyavadas.space-z.ai/)">
+  <a href="https://surjyavadas.space-z.ai/">
     <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/surjyava-das/">
